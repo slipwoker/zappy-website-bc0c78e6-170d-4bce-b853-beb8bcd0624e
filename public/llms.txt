@@ -1,0 +1,88 @@
+# Delaware Weather Network — Generative Engine Optimization Map
+
+> A comprehensive weather information portal focused on the state of Delaware, offering real-time weather data including watches and warnings, location-based forecasts, interactive radar, UV index readings, tide times, and sunrise/sunset schedules. The site is designed to be a go-to resource for Delaware residents and visitors seeking accurate and up-to-date local weather intelligence.
+
+---
+
+## Pages
+
+### Home
+https://delaware-weather-network-bc0c78e6.zappy5.app
+Your ultimate Delaware weather hub: scan live local weather radar near me, track storms in real time, and get instant watches and warnings. Stay ahead of every front!
+
+### Forecasts & Conditions
+https://delaware-weather-network-bc0c78e6.zappy5.app/forecasts-conditions
+Dive into hyper-local forecasts powered by live local weather radar. From hourly shifts to severe alerts, plan your Delaware day with precision. Check conditions now!
+
+### Coastal & Sun
+https://delaware-weather-network-bc0c78e6.zappy5.app/coastal-sun
+Master Delaware&#39;s coast with tide times, UV index, and sunrise schedules backed by local weather radar near me. Your beach day starts with perfect timing. Explore coastal data!
+
+### Contact
+https://delaware-weather-network-bc0c78e6.zappy5.app/contact
+Have a weather question or need custom radar insights? Reach out to Delaware Weather Network and let our meteorology pros equip you with live local weather radar answers.
+
+## Legal & Policy
+
+### Privacy Policy
+https://delaware-weather-network-bc0c78e6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://delaware-weather-network-bc0c78e6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://delaware-weather-network-bc0c78e6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://delaware-weather-network-bc0c78e6.zappy5.app/contact
+- Endpoint: https://delaware-weather-network-bc0c78e6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Delaware Weather Network
+A comprehensive weather information portal focused on the state of Delaware, offering real-time weather data including watches and warnings, location-based forecasts, interactive radar, UV index readings, tide times, and sunrise/sunset schedules. The site is designed to be a go-to resource for Delaware residents and visitors seeking accurate and up-to-date local weather intelligence.
+
+## Services/Products
+- Current weather watches and warnings
+- Forecasts by location
+- Weather radar
+- UV index
+- Tide times
+- Sunrise and sunset times
+- Contact form
+- Facebook and Twitter social links
+
+## Target Audience
+- Delaware Residents and Visitors
+- Local Business Owners
+- Outdoor Enthusiasts
+
+## Industry
+Weather & Meteorology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://delaware-weather-network-bc0c78e6.zappy5.app/sitemap.xml
+- Robots: https://delaware-weather-network-bc0c78e6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://delaware-weather-network-bc0c78e6.zappy5.app/llms-full.txt
