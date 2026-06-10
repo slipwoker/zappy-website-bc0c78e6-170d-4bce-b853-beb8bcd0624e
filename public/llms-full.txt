@@ -94,10 +94,11 @@ Contact
 
 
 
-# Delaware Weather Intelligence, All In One Place
+# Delaware Weather network...accurate and reliable weather forecasting
 
 
 ### Real-time watches and warnings, location-based forecasts, interactive radar, UV index readings, tide times, and sunrise/sunset schedules — built for Delaware residents and visitors.
+
 
 
 
@@ -112,7 +113,9 @@ Statewide Coverage
 
 
 
+
 Coastal Conditions
+
 
 
 
