@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://delaware-weather-network-bc0c78e6.zappy5.app
+https://example.com
 Your ultimate Delaware weather hub: scan live local weather radar near me, track storms in real time, and get instant watches and warnings. Stay ahead of every front!
 
 ### Forecasts & Conditions
-https://delaware-weather-network-bc0c78e6.zappy5.app/forecasts-conditions
+https://example.com/forecasts-conditions
 Dive into hyper-local forecasts powered by live local weather radar. From hourly shifts to severe alerts, plan your Delaware day with precision. Check conditions now!
 
 ### Coastal & Sun
-https://delaware-weather-network-bc0c78e6.zappy5.app/coastal-sun
+https://example.com/coastal-sun
 Master Delaware&#39;s coast with tide times, UV index, and sunrise schedules backed by local weather radar near me. Your beach day starts with perfect timing. Explore coastal data!
 
 ### Contact
-https://delaware-weather-network-bc0c78e6.zappy5.app/contact
+https://example.com/contact
 Have a weather question or need custom radar insights? Reach out to Delaware Weather Network and let our meteorology pros equip you with live local weather radar answers.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://delaware-weather-network-bc0c78e6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://delaware-weather-network-bc0c78e6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://delaware-weather-network-bc0c78e6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://delaware-weather-network-bc0c78e6.zappy5.app/contact
-- Endpoint: https://delaware-weather-network-bc0c78e6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -83,6 +83,6 @@ Weather & Meteorology
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://delaware-weather-network-bc0c78e6.zappy5.app/sitemap.xml
-- Robots: https://delaware-weather-network-bc0c78e6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://delaware-weather-network-bc0c78e6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
