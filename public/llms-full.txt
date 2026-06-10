@@ -315,29 +315,29 @@ From Wilmington to Rehoboth Beach, our real-time data and local weather radar in
 
 
 
-3
-Counties Covered
+
+3 Counties Covered
 
 New Castle, Kent, and Sussex — every corner of the state.
 
 
 
-24
-Coastal Communities
+
+24 Coastal Communities
 
 Serving Delaware's bayside and oceanfront towns.
 
 
 
-365
-Daylight Updates
+
+365 Daylight Updates
 
 Sunrise and sunset times updated year-round.
 
 
 
-4
-Daily Marine Snapshots
+
+4 Daily Marine Snapshots
 
 Tide and marine timing data refreshed every cycle.
 
@@ -351,10 +351,23 @@ Tide and marine timing data refreshed every cycle.
 
 
 
+### Subheading
+
+
+Text goes here
+
+
+Text goes here
+
+
+
+
+
 ### UV Intensity Range
 
 
 Low to Very High — check the live UV index before heading out.
+
 
 Updated Hourly
 
@@ -368,6 +381,7 @@ Updated Hourly
 
 High and low tide windows for Delaware's coastline and bays.
 
+
 4 Cycles Daily
 
 
@@ -379,6 +393,7 @@ High and low tide windows for Delaware's coastline and bays.
 
 
 Accurate daily timing so you never miss golden hour.
+
 
 Precision to the Minute
 
